@@ -1,0 +1,13 @@
+html, body {
+	height: 100%;
+}
+
+button.btn>label {
+	padding: 15px;
+	margin: 0px;
+	cursor: pointer;
+}
+
+.bg-light ul.nav li.nav-item a.vuper-nav-item {
+	color: #2AA191;
+}
